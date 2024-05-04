@@ -12,20 +12,20 @@ export function x2(){
     for (let i = 0; i <= 6; ++i)
         for (let j = 0; j <= 6; ++j)
             for (let k = 0; k <= 6; ++k)
+        continue
 }
-console.log(i,j,k)
 export function y2(){
-    for (let l = 0; l =>-6 || l <= 6; ++l || l--)
-        for (let m = 0; m => -6 && m <= 6; ++m || m--)
-            for (let n = 0; n => -6 && n <= 6; ++n || n--)
+    for (let l = 0; l >= -6 || l <= 6; ++l || l--)
+        for (let m = 0; m >= -6 && m <= 6; ++m || m--)
+            for (let n = 0; n >= -6 && n <= 6; ++n || n--)
+        break
 }
-console.log(l,m,n)
 export function z2(){
-    for (let o = 0; o => 6; o--)
-        for (let p = 0; p => 6; p--)
-            for (let q = 0; q => 6; q--)
+    for (let o = 0; o >= 6; o--)
+        for (let p = 0; p >= 6; p--)
+            for (let q = 0; q >= 6; q--)
+        continue
 }
-console.log(o,p,q)
 export function t2(){
     do `y2*z2`
     while ({

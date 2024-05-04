@@ -7,9 +7,9 @@ import './return/returnnnnnnn'
 void function InventorySlots1() {
     return [
         {axis: 'x', items: '-- -- -- --'},
-        {axis: 'y', items: '|| || || ||'},
+        {axis: 'y', items: '\\ \\ // //'},
         {axis: 'z', items: '~~ ~~ ~~ ~~'},
-        {axis: 't', items: '\\ \\ \\ \\'},
+        {axis: 't', items: '// // \\ \\'},
     ]
 }
 console.log('InventorySlots1')
