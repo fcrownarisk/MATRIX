@@ -1,4 +1,3 @@
-
 interface CH22{
 carbonCount: number;
 hydrogenCount: number;
