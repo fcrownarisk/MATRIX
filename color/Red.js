@@ -1,4 +1,3 @@
-
 import './Color.css'
 class Red{
           element1=
