@@ -36,4 +36,6 @@ export function t{ <br>
   x:`x=0,x,x` <br>
   }) <br>
 } <br>
-大于> 小于< 大于且等于>= 小于且等于<=　左位移运算符<<= 又位移运算符=>>
+大于> 小于<   (bigger than  , smaller than)
+大于且等于>= 小于且等于<=　(bigger and equal to ,  smaller and equal to)
+左位移运算符<<= 右位移运算符>>=  (bitterwiz)
